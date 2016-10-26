@@ -1,0 +1,7 @@
+name: Grunt Scaffold Demo
+author: Dave Campion
+homepage: https://github.com/gasolinewaltz/OctoberThemeScaffold
+description: Scaffolding OctoberCMS Themes with grunt
+code: Grunt-Scaffold Demo
+require:
+    - October.Demo
