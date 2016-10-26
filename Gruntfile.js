@@ -195,15 +195,9 @@ module.exports = function (grunt) {
   );
 
   grunt.registerTask(
-    'default',
+    'build',
     'Build the theme for production',
     ['css', 'js', 'images']
-  );
-
-  grunt.registerTask(
-    'dev',
-    'Development mode',
-    ['less:app', 'js', 'watch']
   );
 
   grunt.registerTask(
