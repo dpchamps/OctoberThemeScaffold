@@ -9,7 +9,7 @@ At some point, this will be turned into a yeoman generator....
                webserver path ( i.e. http://localhost/myawesomeapp -> `'name' : 'myawesomeapp'` )
 1. `npm install`
 1. `bower install`
-1. `grunt`
+1. `grunt build`
 
 ## Grunt Commands
 
